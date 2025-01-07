@@ -6,7 +6,7 @@ subtitle: Experienced Data Analyst, Aspiring Data Scientist
 
 profile:
   align: right
-  image: profile_pic.jpg
+  image: profile_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Boston, MA</p>
