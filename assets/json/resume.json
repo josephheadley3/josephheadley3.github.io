@@ -51,7 +51,6 @@
     {
       "name": "Giving Map",
       "position": "Data Science Intern",
-      "url": "https://www.boston.gov/news/fellow-full-time-joseph-headley",
       "startDate": "2020-12-28",
       "endDate": "2021-01-22",
       "summary": "Focused on scrapping the Bureau of Labor Statistics website for county level unemployment data to use to create a time-lapse map of how unemployment changed from the pre-Covid to post-Covid economy.",
