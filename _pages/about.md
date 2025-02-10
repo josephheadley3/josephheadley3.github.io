@@ -16,8 +16,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+As a Data Analyst I spend a lot of my time manipulating and analyzing data with SQL and Python and visualizing and presenting data with Power BI/Tableau and ArcGIS. One of the things I love about being a Data Analyst is that throughout my career and even at present I've been given many opportunities to improve my understanding of all the tools I use and to learn new concepts and skills on a frequent basis by applying them to several of the projects that I've worked on. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Working in local government for over 3 years in this capacity has provided me with unique experiences in managing multiple projects and requests across a wide array of different stakeholder groups with varying levels of comfort with data. Addressing the needs of all these stakeholders in ways that fulfill the criteria that each of their requests demand I find is often a challenging but fun exercise in problem solving both in managing stakeholder relationships and nitty-gritty, technical data work.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My approach to doing this kind of technical data work has been heavily influenced by my Physics degree where I see every project as a problem with a base case and numerous clever ways to achieve your desired results.
