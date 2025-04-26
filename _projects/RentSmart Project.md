@@ -1,7 +1,7 @@
 ---
 layout: page
 title: RentSmart Dashboard
-description: with background image
+# description: with background image
 img: assets/img/RentSmart Screenshot.jpg
 importance: 1
 category: work
@@ -17,3 +17,6 @@ The RentSmart dataset was an amalgamation of complaint and violation data, origi
 As a Data Analyst Fellow working on the RentSmart project provided me with a great opportunity to learn more advanced SQL by working with a complex dataset that required extensive data transformations to power the dashboard and to gain experience producing a polished dashboard in Tableau intended for use by the general public.
 
 Following the City of Boston's switch from Tableau to Power BI as its main business intelligence tool, the RentSmart Tableau dashboard was rebuilt and redesigned in Power BI in January 2024. This rebuild effort provided further opportunities to improve skills in dashboard creation by learning how to create RentSmart and all its useful features on another dashboading tool with its technological idiosyncrasies. The current version of the RentSmart dashboard can be found <a href="https://www.boston.gov/departments/analytics-team/rentsmart-boston">here</a>. 
+
+
+<a href="https://www.boston.gov/departments/analytics-team/rentsmart-boston"><img src="assets/img/RentSmart Screenshot.jpg"></a>
