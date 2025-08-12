@@ -20,12 +20,3 @@ Following the City of Boston's switch from Tableau to Power BI as its main busin
 
 {% include figure.liquid loading="eager" path="assets/img/RentSmart_Screenshot.jpg" class="img-fluid rounded z-depth-1" %}
 
-<!-- <a href="https://www.boston.gov/departments/analytics-team/rentsmart-boston"><img src="assets/img/RentSmart Screenshot.jpg"></a> -->
-
-<!-- <div class="row">
-    <div class="col-sm md-auto">
-        <a href="https://www.boston.gov/departments/analytics-team/rentsmart-boston">
-        {% include figure.html path="assets/img/RentSmart_Screenshot.jpg" title="Screenshot"  class="img-fluid rounded z-depth-1" %}
-        </a>
-    </div>
-</div> -->
