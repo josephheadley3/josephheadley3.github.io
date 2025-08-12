@@ -2,7 +2,7 @@
 layout: page
 title: RentSmart Dashboard
 # description: with background image
-img: assets/img/RentSmart Screenshot.jpg
+img: assets/img/RentSmart_Screenshot.jpg
 importance: 1
 category: work
 related_publications: true
